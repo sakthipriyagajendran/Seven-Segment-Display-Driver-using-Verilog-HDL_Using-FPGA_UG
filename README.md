@@ -87,5 +87,5 @@ set_property -dict { PACKAGE_PIN A8 IOSTANDARD LVCMOS33 } [get_ports {an[3]}]
 ```
 # FPGA Implementation Output
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/fc6025db-853d-4ef6-8ce7-0559a8789864" />
-# Conclusion
+## Conclusion
 In this experiment, a seven-segment display driver was successfully implemented using Verilog HDL in FPGA.This experiment demonstrates the practical application of Verilog HDL in designing and controlling digital hardware components, highlighting its importance in developing reliable and efficient digital systems.
